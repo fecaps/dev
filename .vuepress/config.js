@@ -1,5 +1,6 @@
 module.exports = {
   title: 'fecaps',
+  base: "/dev/",
   description: 'Fellipe Capelli (a.k.a as fecaps), Backend Developer',
   themeConfig: {
     nav: [{
