@@ -20,13 +20,10 @@ module.exports = {
         link: 'https://www.linkedin.com/in/fellipe-capelli/'
       },
       {
-        text: 'Github',
-        link: 'https://github.com/fecaps'
-      },
-      {
         text: 'Medium',
         link: 'https://medium.com/@fecaps'
       }
-    ]
-  }
+    ],
+    repo: 'fecaps/'
+  },
 }
